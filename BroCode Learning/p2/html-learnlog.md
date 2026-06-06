@@ -1,5 +1,5 @@
 # HTML Learning Log of p1
-In p1 (progress 1), I have learned the following:
+In p2 (progress 2), I have learned the following:
 <br><br>
 - What Hyperlinks are
 <br><br>
