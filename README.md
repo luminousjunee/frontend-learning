@@ -8,4 +8,4 @@ Throughout this repository, I will be updating the learnlogs, providing folders 
 Anyone can view, fork, distribute, and use this repository for personal use (MIT licence) to better understand frontend (HTML, CSS) development.
 <br><br>
 # Tutorials & Resources
-p1 (https://www.youtube.com/watch?v=HGTJBPNC-Gw) - HTML basics
+p1 (https://youtu.be/HGTJBPNC-Gw?si=T7wlMLOAJAYQRDy7) - HTML basics
