@@ -14,7 +14,6 @@ Adds structure to a webpage (Example by BroCode: If a house were being built, HT
 Need a modern web browser, like Google Chrome, Microsoft Edge, Firefox, or Safari, as well as a text editor (VS Code)
 <br><br>
 # HTML Tags/Elements
-<br><br>
 - Tags (＜tag＞＜/tag＞), also known as "markup", is used to convery a web browser, how some content should be displayed.
 Example: ＜p＞Hello World!＜/p＞ (Will display a paragraph text reading "Hello World!")
 <br><br>
