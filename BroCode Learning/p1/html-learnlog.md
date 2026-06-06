@@ -13,7 +13,7 @@ Adds structure to a webpage (Example by BroCode: If a house were being built, HT
 <br><br>
 Need a modern web browser, like Google Chrome, Microsoft Edge, Firefox, or Safari, as well as a text editor (VS Code)
 <br><br>
-- Tags ("<tag></tag>"), also known as "markup", is used to convery a web browser, how some content should be displayed.
+- Tags, also known as "markup", is used to convery a web browser, how some content should be displayed.
 Example: <p>Hello World!</p> (Will display a paragraph text reading "Hello World!")
 <br><br>
 - Text tags (title (h1, h2, h3, h4, h5, h6, h7), paragraph (p), hyperlink (a))
