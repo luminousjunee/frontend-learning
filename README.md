@@ -9,3 +9,5 @@ Anyone can view, fork, distribute, and use this repository for personal use (MIT
 <br><br>
 # Tutorials & Resources
 p1 (https://youtu.be/HGTJBPNC-Gw?si=T7wlMLOAJAYQRDy7) - HTML basics
+<br>
+p2 (https://youtu.be/HGTJBPNC-Gw?si=T7wlMLOAJAYQRDy7) - HTML hyperlinks
